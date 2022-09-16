@@ -5,7 +5,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarogtavares&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogtavares&layout=compact&langs_count=16"/>
    </a>
+   </br>
+   <img alt="octocat-1663290886832" src="https://user-images.githubusercontent.com/26742503/190535562-e37d4f6a-e7af-4712-8679-a0e4b09b5668.png" height=512px />
 </div>
+
+
 
 ## Technologies & Tools
 <div>
