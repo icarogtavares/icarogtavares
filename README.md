@@ -1,17 +1,11 @@
 # Icaro Tavares 👋
-
+## Technologies & Tools
 <div align="center">
   <a href="https://github.com/icarogtavares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarogtavares&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarogtavares&layout=compact&langs_count=16"/>
    </a>
-   </br>
-   <img alt="octocat-1663290886832" src="https://user-images.githubusercontent.com/26742503/190535562-e37d4f6a-e7af-4712-8679-a0e4b09b5668.png" height=512px />
 </div>
-
-
-
-## Technologies & Tools
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,7 +25,10 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </div>
-</br>
+<div align="center">
+   <img alt="octocat-1663290886832" src="https://user-images.githubusercontent.com/26742503/190535562-e37d4f6a-e7af-4712-8679-a0e4b09b5668.png" height=512px />
+</div>
+
 
 ## Contacts
 <div>
