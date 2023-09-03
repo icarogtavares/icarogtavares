@@ -23,7 +23,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /></br>
-  <img alt="octocat-1663290886832" src="https://user-images.githubusercontent.com/26742503/190535562-e37d4f6a-e7af-4712-8679-a0e4b09b5668.png" height=512px />
+<!--   <img alt="octocat-1663290886832" src="https://user-images.githubusercontent.com/26742503/190535562-e37d4f6a-e7af-4712-8679-a0e4b09b5668.png" height=512px /> -->
 </div>
 
 
